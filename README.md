@@ -9,3 +9,9 @@ https://github.com/mrzstack/zkteco
 ```
 composer require jmrashed/zkteco
 ```
+
+`.env`
+
+```
+ZKT_ECO_DEVICE_IP = "192.168.1.203"
+```
